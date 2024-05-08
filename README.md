@@ -1,6 +1,8 @@
 # React Compiler Working Group
 
-This is the working group for React Compiler. It was formed to provide support to the community through the experimental release. The working group is focused around online conversations which you can access by going to the [GitHub Discussions tab](https://github.com/reactwg/react-compiler/discussions).
+This is the working group for React Compiler. Teams that are interested in applying to be a part of the Working Group may [apply here](https://forms.gle/CFPrv3bM2NoDZT1h9).
+
+It was formed to provide support to the community through the experimental release. The working group is focused around online conversations which you can access by going to the [GitHub Discussions tab](https://github.com/reactwg/react-compiler/discussions).
 
 The working group is currently structured to help manage discussions yet make the information available to everyone. If you're looking for the first discussion to read, **[Introducing React Compiler](https://github.com/reactwg/react-compiler/discussions/5)** is a good starting point.
 
